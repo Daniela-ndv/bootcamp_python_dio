@@ -1,0 +1,7 @@
+[2024-05-09 17:09:33] Fun  o 'criar_cliente executada com argumentos ([<PessoaFisica: (1)>],) e {}Retornou None
+[2024-05-09 17:10:19] Fun  o 'criar_cliente executada com argumentos ([<PessoaFisica: (1)>],) e {}. Retornou None
+[2024-05-09 17:10:27] Fun  o 'criar_conta executada com argumentos (1, [<PessoaFisica: (1)>], [<ContaCorrente: ('0001', '1', '1')>]) e {}. Retornou None
+[2024-05-09 17:10:37] Fun  o 'depositar executada com argumentos ([<PessoaFisica: (1)>],) e {}. Retornou None
+[2024-05-09 17:10:40] Fun  o 'exibir_extrato executada com argumentos ([<PessoaFisica: (1)>],) e {}. Retornou None
+[2024-05-09 17:12:38] Fun  o 'criar_cliente executada com argumentos ([<PessoaFisica: (2)>],) e {}. Retornou None
+[2024-05-09 17:12:41] Fun  o 'criar_conta executada com argumentos (1, [<PessoaFisica: (2)>], [<ContaCorrente: ('0001', '1', '2')>]) e {}. Retornou None
