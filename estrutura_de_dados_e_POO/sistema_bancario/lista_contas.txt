@@ -1,0 +1,2 @@
+[2024-05-10 13:54:53] | Conta: 1 | Cliente: <PessoaFisica: (123)>
+[2024-05-10 13:54:59] | Conta: 2 | Cliente: <PessoaFisica: (12345678910)>

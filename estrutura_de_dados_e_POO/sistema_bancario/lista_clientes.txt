@@ -1,0 +1,2 @@
+[2024-05-10 13:54:41] | Cliente: Teste | CPF: 12345678910
+[2024-05-10 13:54:49] | Cliente: Um dois tres | CPF: 123
